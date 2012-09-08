@@ -1,0 +1,12 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Compiled
+target/
+
+# Intellij Idea
+.idea/
+.idea_modules/
+*.iml
